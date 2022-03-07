@@ -1,0 +1,54 @@
+.Login {
+  background-color: #002943;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.idDiv,
+.pwDiv {
+  margin: 2rem;
+  height: 4.5rem;
+  width: 25rem;
+  background-color: #ffffff;
+}
+.bt_login {
+  margin: 2rem;
+  height: 4.5rem;
+  width: 25rem;
+  background-color: #d4caca;
+  margin-top: 0;
+  font-size: 2.5rem;
+
+  font-weight: 900;
+}
+
+.id,
+.pw {
+  font-size: 2rem;
+  background-color: #ffffff00;
+  width: 18rem;
+  height: 4.5rem;
+  border: 0;
+}
+.id_img,
+.pw_img {
+  margin-right: 1rem;
+  width: 2rem;
+}
+.text_bt {
+  width: 9rem;
+
+  margin: 2rem;
+  margin-top: 0;
+  font-size: 1.5rem;
+  float: left;
+  color: #7a7878fb;
+}
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

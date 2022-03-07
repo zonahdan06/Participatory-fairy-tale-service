@@ -1,0 +1,39 @@
+.Home {
+  position: relative;
+  background-color: #002943;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+.Title {
+  height: 20rem;
+  margin: 0;
+}
+.img1 {
+  width: 50rem;
+}
+.button_div {
+  margin-top: 3rem;
+  left: 0;
+  right: 0;
+  /*position: fixed;*/
+  bottom: 4rem;
+}
+.Start {
+  bottom: 3rem;
+  border: none;
+  -webkit-text-stroke: 0.1rem #6e757a;
+  color: #fdf30c;
+  padding: 1.1rem 3rem;
+  width: 20rem;
+  border-radius: 1rem;
+  font-size: 2.9rem;
+  font-family: "paybooc-Light", sans-serif;
+  box-shadow: 0 1.5rem 3.5rem rgba(0, 0, 0, 0.2);
+  text-decoration: none;
+  font-weight: 900;
+  cursor: pointer;
+}
+.logo {
+  height: 13rem;
+}

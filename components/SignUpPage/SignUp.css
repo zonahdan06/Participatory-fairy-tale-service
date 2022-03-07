@@ -1,0 +1,45 @@
+.SignUp {
+  background-color: #002943;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.idDiv,
+.pwDiv,
+.emailDiv {
+  margin: 2rem;
+  height: 4.5rem;
+  width: 25rem;
+  background-color: #ffffff;
+}
+.bt_login {
+  margin: 2rem;
+  height: 4.5rem;
+  width: 25rem;
+  background-color: #d4caca;
+  margin-top: 0;
+  font-size: 2.5rem;
+
+  font-weight: 900;
+}
+.bt_dup {
+  height: 4.5rem;
+  width: 9rem;
+  background-color: #d4caca;
+  margin-bottom: 26rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  float: left;
+}
+.id,
+.pw,
+.email {
+  font-size: 2rem;
+  background-color: #ffffff00;
+  width: 20rem;
+  height: 4.5rem;
+  border: 0;
+}

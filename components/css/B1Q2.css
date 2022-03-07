@@ -1,0 +1,65 @@
+.B1Q2 {
+  background-color: #002943;
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.exp {
+  font-size: 1.7rem;
+  text-align: center;
+  padding-bottom: 0;
+  padding-top: 1.3rem;
+  margin-left: 23rem;
+  height: 3rem;
+  width: 27rem;
+  background-color: white;
+  border-radius: 0.5rem;
+  font-weight: 700;
+}
+.Content {
+  padding: 1rem;
+  text-align: center;
+  margin: 3rem;
+  height: 40rem;
+  width: 65rem;
+  background-color: white;
+  border-radius: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+.cam {
+  width: 20rem;
+  height: 20rem;
+  margin-left: 7rem;
+  margin-right: 9rem;
+  float: left;
+  border: 0.2rem solid rgb(105, 104, 104);
+}
+.cam3 {
+  width: 17rem;
+  height: 17rem;
+  margin-left: 24rem;
+  margin-right: 9rem;
+  border: 0.2rem solid rgb(105, 104, 104);
+}
+.ex {
+  width: 20rem;
+
+  height: 20rem;
+  float: left;
+
+  border: 0.2rem solid rgb(105, 104, 104);
+}
+.count {
+  clear: both;
+  padding-top: 3rem;
+  text-align: center;
+}
+.state {
+  clear: both;
+  padding-top: 1rem;
+  text-align: center;
+}
